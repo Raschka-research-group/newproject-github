@@ -21,7 +21,7 @@ Project Organization
     │   ├── meetings.md      <- Notes from meetings and discussions
     │   ├── pdfs             <- PDF files (e.g., PDFs of relevant papers linked in referenced.md)
     │   ├── references.md    <- List of relevant papers and other references
-    |   |-- project-ideas.md <- The overall project ideas
+    |   ├── project-ideas.md <- The overall project ideas
     │
     ├── models               <- Trained and serialized models, model predictions, or model summaries
     │
