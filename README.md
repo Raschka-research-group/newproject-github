@@ -16,6 +16,7 @@ Project Organization
     │
     ├── docs                 <- Documentation for running code, description of results
     │   ├── analysis.md      <- File with descriptions for how to run analyses
+    |   ├── data.md          <- Description of the datasets in ./data
     │   ├── figures          <- Folder for figures (.png, .jpg, etc.)
     │   ├── manuscript       <- Folder for files for writing the paper, or link to Overleaf project
     │   ├── meetings.md      <- Notes from meetings and discussions
