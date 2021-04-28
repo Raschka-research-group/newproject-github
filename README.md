@@ -21,8 +21,8 @@ Project Organization
     │   ├── manuscript        <- Folder for files for writing the paper, or link to Overleaf project
     │   ├── meetings.md       <- Notes from meetings and discussions
     │   ├── pdfs              <- PDF files (e.g., PDFs of relevant papers linked in referenced.md)
-    │   ├── reports-completed <- Finished reports and presentations about the project (grants, talks, papers)
     │   ├── references.md     <- List of relevant papers and other references
+    │   ├── reports-completed <- Finished reports and presentations about the project (grants, talks, papers)
     |   ├── project-ideas.md  <- The overall project ideas
     │
     ├── models                <- Trained and serialized models, model predictions, or model summaries
