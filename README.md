@@ -1,6 +1,8 @@
 NewProject
 ==============================
 
+(Based on https://drivendata.github.io/cookiecutter-data-science/)
+
 Project Description
 
 Project Organization
